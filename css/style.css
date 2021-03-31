@@ -82,3 +82,14 @@ ul {
 }
 
 /* header end */
+
+section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 8vw;
+  background: dodgerblue;
+  color: #fff;
+  font-family: cursive;
+}
